@@ -1,0 +1,8 @@
+#Latex; additional files
+*.aux
+*.pdf
+*.log
+*.synctex.gz
+*.toc
+
+
