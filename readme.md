@@ -1,4 +1,4 @@
-#About
+# About
 
 In diesem git-repo ist eine .tex-Datei, die als Basis für die Texte dient. Sie kann mit latex in ein PDF umgewandelt werden. 
 
