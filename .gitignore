@@ -7,3 +7,7 @@
 
 #include output-PDF
 !latein-texte.pdf
+
+*.fdb_latexmk
+
+*.fls
