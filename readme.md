@@ -6,4 +6,3 @@ Für Änderungen bitte forken, editen und eenen Pull-Request öffnen, ich review
 
 Nic Cantieni
 
-Trying to fuck this up but wont happen :(
